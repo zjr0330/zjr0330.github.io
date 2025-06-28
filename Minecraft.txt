@@ -59,7 +59,7 @@
 "sklSlowHit": "[1]获得[迟缓]BUFF",
 "sklExplode": "[0]使用[自爆]",
 "sklSummon": "[0]使用[血祭]",
-"sklSummonName": "闹鬼",
+"sklSummonName": "恼鬼",
 "sklSummoned": "召唤出[1]",
 "sklThunder": "[0]对弩[快速装填]",
 "sklThunderEnd": "[0]用盾牌[格挡]了攻击",
